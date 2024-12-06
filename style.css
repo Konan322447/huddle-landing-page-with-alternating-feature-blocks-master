@@ -445,10 +445,12 @@ footer{
         width: 100%;
     }
     footer{
-        height: 115dvh;
+        height: 125dvh;
         flex-direction: column;
         padding: 50% 6%;
         margin-top: 60%;
+        position: relative;
+        bottom: 0;
     }
     .footer-left{
         gap: 1rem;
